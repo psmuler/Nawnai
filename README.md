@@ -40,3 +40,4 @@ To visualize `altitudeAngle` and `azimuthAngle` (source: [Apple](https://develop
 - [Microsoft Edge](https://msdn.microsoft.com/en-us/library/dn433244%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396)
 - Hand.js -> [jQuery PEP](https://github.com/jquery/PEP).
 - MSPointerXXX: [MSDN Blog](https://blogs.msdn.microsoft.com/eternalcoding/2013/02/20/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser/)
+#Nawnai

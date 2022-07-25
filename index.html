@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -17,10 +18,12 @@
       padding: 1em;
       box-sizing: border-box;
     }
+
     h1 {
       margin-top: 0;
       color: #ccc;
     }
+
     canvas {
       position: absolute;
       width: 100%;
@@ -28,6 +31,7 @@
       left: 0;
       top: 0;
     }
+
     #info {
       z-index: 1;
       position: absolute;
@@ -35,6 +39,7 @@
     }
   </style>
 </head>
+
 <body>
   <h1>Demo of Apple Pencil / 3D touch API</h1>
   <div id="force"></div>
@@ -43,7 +48,9 @@
   <div id="info">
     <a href="https://github.com/quietshu/apple-pencil-safari-api-test" target="_blank">GitHub</a>
     <button onclick="undoDraw()">Undo</button>
+    <button onclick="mode_frame()">frame</button>
   </div>
   <script src="index.js"></script>
 </body>
+
 </html>
